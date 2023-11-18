@@ -30,7 +30,7 @@ body {
 
     body::-webkit-scrollbar-thumb
     {
-        background-color: #7c3aed;
+        background-color: rgba(37,99,235);
     }
 }
 
